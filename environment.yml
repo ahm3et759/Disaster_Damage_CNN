@@ -1,0 +1,23 @@
+name: disaster-damage-cnn
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - cudatoolkit=11.8
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pillow
+  - tqdm
+  - pip
+  - pip:
+    - kagglehub
+    - jupyter
+    - ipykernel
+
