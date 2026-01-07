@@ -343,7 +343,7 @@ Bu proje eğitim amaçlıdır.
 
 ## 👤 Yazar
 
-CNN ile görüntü sınıflandırma projesi
+AHMET ŞİMŞEK
 
 ---
 
